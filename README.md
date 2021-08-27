@@ -5,16 +5,14 @@ Material da aula de Git
 
 Realizando o primeiro commit! (Commit === Comprometimento!!! Garantia!!!)
 
+### alunos participantes
+#### Escreva seu nome aqui
+
+@helenilson oliveira
+
 ## Modificando no VS
-
-Isto foi alterado a partir do VS
-
-## Verificando a opção de fetch
-
-Realizando commit online.
-
-## Mais um exemplo de fetch
 
 Só mais esse, tá?!
 
 Esse é um commit do Rodrigo.
+Isto foi alterado a partir do VS
