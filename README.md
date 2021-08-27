@@ -5,6 +5,6 @@ Material da aula de Git
 
 Realizando o primeiro commit! (Commit === Comprometimento!!! Garantia!!!)
 
-##alunos que participante
+##alunos participantes
 
 @helenilson
