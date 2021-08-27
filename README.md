@@ -9,3 +9,7 @@ Realizando o primeiro commit! (Commit === Comprometimento!!! Garantia!!!)
 #### Escreva seu nome aqui
 
 @helenilson oliveira
+
+## Modificando no VS
+
+Isto foi alterado a partir do VS
