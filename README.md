@@ -4,7 +4,7 @@ Material da aula de Git
 ## Iniciando operações de controle de versão
 
 Realizando o primeiro commit! (Commit === Comprometimento!!! Garantia!!!)
-
-##alunos participantes
-###Escreva seu nome aqui
+\
+##alunos participantes.\
+###Escreva seu nome aqui.\
 @helenilson
