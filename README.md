@@ -1,6 +1,8 @@
 # ocean_devops_git_20210827
 Material da aula de Git
 
-## Iniciando operações de edição online
+## Aula Deusany
 
-Realizando o primeiro commit! (Commit === Compromentimento!!! Garantia!!!)
+Aula de DevOps Git com o instrutor Antônio Deusany.
+- DevOps é o antigo engenheiro de configuração
+- Git foi criado pelo Linus Torvald
