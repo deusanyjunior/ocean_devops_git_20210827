@@ -8,3 +8,7 @@ Realizando o primeiro commit! (Commit === Comprometimento!!! Garantia!!!)
 ## Modificando no VS
 
 Isto foi alterado a partir do VS
+
+## Verificando a opção de fetch
+
+Realizando commit online.
