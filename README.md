@@ -13,3 +13,7 @@ Realizando o primeiro commit! (Commit === Comprometimento!!! Garantia!!!)
 ## Modificando no VS
 
 Isto foi alterado a partir do VS
+
+## Conflito
+
+Não usou a oração da Mariana deu conflito
