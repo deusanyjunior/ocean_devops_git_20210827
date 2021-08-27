@@ -16,3 +16,5 @@ Realizando commit online.
 ## Mais um exemplo de fetch
 
 Só mais esse, tá?!
+
+Esse é um commit do Rodrigo.
