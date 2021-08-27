@@ -12,4 +12,7 @@ Realizando o primeiro commit! (Commit === Comprometimento!!! Garantia!!!)
 
 ## Modificando no VS
 
+Só mais esse, tá?!
+
+Esse é um commit do Rodrigo.
 Isto foi alterado a partir do VS
